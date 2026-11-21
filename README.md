@@ -1,5 +1,6 @@
 # Voice Assistant
 
+![Voice Assistant screenshot](screenshot.png)
 A voice assistant you talk to in the browser. A glowing orb reacts to your voice, live captions show what you say, and the assistant answers out loud.
 
 ## Features
